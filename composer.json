@@ -1,0 +1,12 @@
+{
+    "name": "jprog/use_composer",
+    "authors": [
+        {
+            "name": "VlKuzmichev",
+            "email": "echo_vk1@yahoo.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
